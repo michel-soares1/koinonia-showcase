@@ -107,6 +107,33 @@ A plataforma adota uma estratégia de **Defense in Depth** com múltiplas camada
 
 ---
 
+## 📸 Telas do Projeto
+
+![Tela de Login](<img width="1349" height="637" alt="Foto 1" src="https://github.com/user-attachments/assets/1a955d8a-fcf8-4a29-931c-7a23af597160" />)
+
+![Página Inicial](<img width="1349" height="638" alt="Foto 2" src="https://github.com/user-attachments/assets/8817173a-1e73-4b09-81ab-393ae7d8a1e6" />)
+
+![Módulo de Aconselhamento](<img width="1351" height="639" alt="Foto 3" src="https://github.com/user-attachments/assets/22f984a2-bce5-4356-98ac-cc9bafc1e628" />)
+
+![Tela de Doação / Pix](<img width="1348" height="637" alt="Foto 4" src="https://github.com/user-attachments/assets/fbb058d2-6463-4cec-b865-9d5b56712d16" />)
+
+![Recurso de Libras](<img width="1345" height="639" alt="Foto 5" src="https://github.com/user-attachments/assets/6e0789ae-38f0-4246-8ce8-b0414b054743" />)
+
+![Tela de Transcrição](<img width="1351" height="637" alt="Foto 6" src="https://github.com/user-attachments/assets/d801b83b-4ebe-413e-95f4-8d23ef68584a" />)
+
+---
+
+
+## 📌 Projeto em Destaque
+
+### 🔷 Koinonia — Plataforma SaaS de Acessibilidade
+
+> SaaS multi-tenant em produção. Next.js 14 · TypeScript · Supabase · WebRTC · Pix/Asaas · LGPD
+
+🌐 [koinoniaig.com.br](https://koinoniaig.com.br)
+
+---
+
 ## 📌 Status
 
 Plataforma em **produção ativa**, em evolução contínua por sprints curtos com releases versionados.
