@@ -32,7 +32,7 @@ O produto está **em produção**, atendendo a uma comunidade-piloto, com arquit
 
 - **Acessibilidade em Libras** — integração de avatar de língua de sinais para inclusão de pessoas surdas
 - **Transcrição de áudio** — conversão de fala em texto para acessibilidade auditiva
-- **Aconselhamento por vídeo (P2P)** — comunicação em tempo real via WebRTC, com notas criptografadas
+- **Aconselhamento por vídeo (P2P)** — comunicação em tempo real, com notas criptografadas
 - **Doações via Pix e cartão** — integração com gateway de pagamento nacional
 - **PWA** — aplicação instalável, com experiência mobile-first
 - **Multi-tenant** — isolamento completo de dados por organização
